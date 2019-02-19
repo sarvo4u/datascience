@@ -1,3 +1,3 @@
 # datascience
 Greatlearning PGPML
-Starting to use github
+Starting to use github. Interesting journey
